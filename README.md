@@ -16,7 +16,6 @@ python 2.7 / 3.6
 Installation
 Clone the repository
 
-git clone https://github.com/yehengchen/Object-Detection-and-Tracking.git
 [OneStage]
 YOLO-SORT: Real-Time Object Detection and Tracking
 How to train a YOLO model on custom images: YOLOv3 - [Here] / YOLOv4 - [Here]
